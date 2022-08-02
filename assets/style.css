@@ -1,0 +1,51 @@
+/*
+selector: etiqueta p
+propiedad: color
+valor: rgb(0, 145, 29)
+*/
+
+
+
+/*
+
+Selectores
+
+    - Selectores por etiqueta
+
+    Son instrucciones que podemos usar para seleccionar nuestras ETIQUETAS de HTML. Los selectores son una manera de identificar una etiqueta en particular.
+
+    Una vez que seleccionamos nuestro elemento, abrirelos llaves para poder modificar sus propiedades. Cerramos las llaves cuando terminemos de modificar.
+
+    - Selectores por clase
+
+    Cuando usamos una clase, podemos realizar la misma modificaciones para todos los elementos que tengan esa clase en comun. Para modificarlo, los seleccionas con un punto.
+
+    Ejemplo:
+        .nomnreDeLaClase
+
+
+    - Selectores por ID
+
+    Usamos un ID como manera de identificacion de un elemento en particular, y lo seleccionamos con el signo de gato o numeral
+
+    Ejemplo:
+        #nombreDelId
+
+
+
+*/
+
+body { background-color: pink;}
+
+
+#Parrafo1 { color: rgb(145, 114, 0); background-color: rgb(215, 215, 215);
+}
+
+#Parrafo3 { color: rgb(0, 145, 29); background-color: rgb(215, 215, 215);
+}
+
+.Cohorte15 { background-color: rgb(255, 201, 52); font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
+
+#Jaciel { color: lightskyblue; }
+
+#Maryana { color: crimson; font-size: large;}
